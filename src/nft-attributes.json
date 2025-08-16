@@ -1,0 +1,16 @@
+{
+    "name": "0xC0rv0",
+    "description": "This is a blokkat bootcamp NFTs created by 0xC0rv0.",
+    "image": "https://violet-worrying-clownfish-889.mypinata.cloud/ipfs/bafkreihhlm73adsdvqzi7enkozv3huyfpmmsv73q6ujwji6o22t2p7r3ny",
+    "attributes": [
+        {
+            "trait_type": "level",
+            "value": "beginner"
+        },
+        {
+            "trait_type": "category",
+            "value": "blockchain"
+        }
+    ]
+    
+}
